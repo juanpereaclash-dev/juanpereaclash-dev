@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre o Nick] 🚀
 
-<!--
-**juanpereaclash-dev/juanpereaclash-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador enfocado en soluciones eficientes, modulares y mantenimiento de aplicaciones.
 
-Here are some ideas to get you started:
+## 🛠 Mi Stack Tecnológico
+* **Lenguajes:** Dart, SQL.
+* **Frameworks/Tecnologías:** Flutter, PostgreSQL, JSON.
+* **Enfoque:** Corrección de errores (bugs), integración de APIs y optimización de bases de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ ¿Qué puedo hacer por ti?
+Si tienes una app en Flutter o una base de datos que no funciona como debería, puedo ayudarte a:
+- [ ] **Depurar (Debug):** Corregir bugs específicos en tu código Flutter.
+- [ ] **Integrar:** Conectar tu app con APIs externas (JSON).
+- [ ] **Optimizar:** Mejorar tus consultas SQL para que tu sistema sea más rápido.
+
+---
+📩 **¿Necesitas una solución técnica rápida?** Escríbeme, trabajo bajo metodologías de comunicación escrita para garantizar entregas impecables y documentadas.
