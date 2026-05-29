@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre o Nick] 🚀
+# ¡Hola! Soy Juan 🚀
 
 Desarrollador enfocado en soluciones eficientes, modulares y mantenimiento de aplicaciones.
 
